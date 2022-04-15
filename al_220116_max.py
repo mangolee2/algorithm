@@ -9,10 +9,6 @@
 # print(max_num)
 
 """최댓값 찾기"""
-
-from gettext import find
-
-
 array = [3, 5, 6, 1, 2, 4]
 # def find_max_num(array):
 #     for num in array:
